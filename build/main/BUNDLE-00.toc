@@ -1,0 +1,3 @@
+([('main',
+   '/Users/kimuracoki/Develop/CSV_Exporter_for_Work_Schedule/dist/main',
+   'EXECUTABLE')],)
